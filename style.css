@@ -1,0 +1,48 @@
+table{
+	background-color:rgb(77, 74, 74);
+	border-radius: 5px;
+	margin: 0 auto;
+	padding-left:20;
+	padding-right:20;
+	padding-top:15;
+	padding-bottom:15;
+}
+.txt{
+	background-color:rgb(176, 206, 176);
+	height:30;
+	width:100%;
+	padding:5px 5 5 5;
+	border:2px solid rgb(176, 206, 176);;
+	box-shadow:0 0 0 rgb(77, 74, 74) ;
+}
+input{
+	height:35px;
+	width:35px;
+	border-radius:5px;
+	border-color:white; 
+	background-color:white;
+	
+}
+button{
+	background-color:white;
+	text-shadow:2px 2px 5px white;
+}
+
+.clr{
+	color:white;
+	background-color:rgb(170, 37, 37);
+	border-color:rgb(170, 37, 37);
+	box-shadow:0px 3px 2px rgb(236, 158, 158)
+	
+}
+.gr{
+	color:white;
+	width:125px; height:30;
+	background-color:green;
+	border:1px solid green;
+	border-radius:2px;
+	box-shadow:0px 3px 2px rgb(167, 221, 167)
+}
+input{
+	box-shadow:0px 3px 2px whitesmoke;
+}
